@@ -12,4 +12,4 @@ Find the solutions in the below table and its related programming language versi
 | Problems | Programming Language |
 | ------------- | ------------- |
 | [Backspace](https://open.kattis.com/problems/backspace)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Backspace/backspace.js)  |
-| [Forced Choice](https://open.kattis.com/problems/forcedchoice)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Forced Choice/forcedchoice.js)|
+| [Forced Choice](https://open.kattis.com/problems/forcedchoice)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Forced%20Choice/forcedchoice.js)|
