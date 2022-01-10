@@ -1,5 +1,5 @@
-//Backspace
-//https://open.kattis.com/problems/backspace
+//
+//
 
 const readline = require('readline');
 const rl = readline.createInterface({
