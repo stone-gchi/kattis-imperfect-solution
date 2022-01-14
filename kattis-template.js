@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 let arr =[];
 
 rl.on('line', (line) => {
-    arr.push(...line.split(" ").map(e=>parseInt(e)));
+    arr.push(...line.split(/\r?\n/).map((e) => parseInt(e)));
 }).on('close', () => {
 
 });
