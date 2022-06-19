@@ -16,6 +16,7 @@ Find(Ctrl + F) the solutions in the below table and its related programming lang
 | [Accounting](https://open.kattis.com/problems/bokforing)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Accounting/accounting.js)|
 | [Add Two Number](https://open.kattis.com/problems/addtwonumbers)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Add%20Two%20Numbers/addTwoNumbers.js)|
 | [Backspace](https://open.kattis.com/problems/backspace)  | [C++](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Backspace/backspace.cpp)  |
+| [Betting](https://open.kattis.com/problems/betting)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Betting/betting.js)  |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Building%20Pyramids/buildingPyramids.js)|
 | [Cinema Crowds 2](https://open.kattis.com/problems/cinema2)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Cinema%20Crowds%202/cinemaCrowds2.js)|
 | [Cut in Line](https://open.kattis.com/problems/cutinline)  | [JavaScript](https://github.com/tinchichan/kattis-imperfect-solution/tree/master/src/Cut%20in%20Line/cutInLine.js)|
